@@ -1,4 +1,6 @@
-# Amazon S3 PHP Class
+# DreamObjects PHP Class
+
+This is forked from the Amazon S3 PHP class, with URLs changed to point to DreamObjects.
 
 ## Usage
 
